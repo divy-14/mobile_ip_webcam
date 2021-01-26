@@ -18,6 +18,7 @@
 <li>Make sure your phone and mobile device are on the same network</li>
 <li> On the Start Page of the App scroll down to the end of the page and you will see the Start Server option, Click on it to start the server.</li>
 <li>After starting the server note down the IPv4 address mentioned in your app</li>
+<li>Clone the Repo and setup your environment</li>
 <li>Now run the ipcam.py script, it will ask you to enter the IP address that you noted down in the previous step, Enter the IP address</li>
 <li><b>BAM!!</b> You now have the livefeed from your phone :smile:</li>
 </ul>

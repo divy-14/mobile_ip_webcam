@@ -22,3 +22,15 @@
 <li>Now run the ipcam.py script, it will ask you to enter the IP address that you noted down in the previous step, Enter the IP address</li>
 <li><b>BAM!!</b> You now have the livefeed from your phone :smile:</li>
 </ul>
+
+<h3>Demo</h3>
+<a href="https://youtu.be/ehOz8thgMpA"><img src="http://img.youtube.com/vi/ehOz8thgMpA/0.jpg"></a>
+
+<h1 align="center">Found a Bug</h1>
+<p> 
+If you find any bug or have any feature request, feel free to raise an issue or contact me on : <a href="mailto:divymohanrai@gmail.com"> Divy Mohan Rai </a>
+</p>
+<p>
+If you want to contribute to this project please create a pull request.
+  
+#### If you liked ♥ this project, please hit that **STAR** button.
